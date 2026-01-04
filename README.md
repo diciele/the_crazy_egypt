@@ -1,5 +1,6 @@
 # Bem-vindo a The Crazy Egypt!
 Joguinho feito em Pyzero 
+
 Objetivo: Você precisa coletar no minimo 6 items de cada: Sol, Chave e Táboa, enquanto desvia dos inimigos morcego e múmia.
 
 Controles:
